@@ -25,4 +25,4 @@
 
 - 2019.3.6 ThinkStation sublime -complete_experiment time:~ result:96.49%
 
-- 2019.5.1 update to support read and save .npy to continue/stop training.
+- 2019.5.1 update to support read and save .npy to continue/stop training.
